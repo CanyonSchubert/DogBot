@@ -1,0 +1,13 @@
+{
+	"name": "dog-bot",
+	"version": "1.0.0",
+	"description": "Provides dog pictures from https://dog.ceo/dog-api/",
+	"main": "bot.js",
+	"author": "Canyon Schubert",
+	"dependencies": {
+		"discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+		"fetch": "^1.1.0",
+		"node-fetch": "^2.6.0",
+		"winston": "^3.2.1"
+	}
+}
